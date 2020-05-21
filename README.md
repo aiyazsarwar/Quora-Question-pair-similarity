@@ -1,6 +1,15 @@
 # Quora-Question-pair-similarity
 
 1. Business Problem 
+
+**********************************PROBLEM STATEMENT**************************************************
+
+1. Identify which questions asked on Quora are duplicates of questions that have already been asked.
+2. This could be useful to instantly provide answers to questions that have already been answered.
+3. We are tasked with predicting whether a pair of questions are duplicates or not.
+
+******************************************************************************************************
+
 1.1 Description 
 Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world.
 
@@ -8,11 +17,7 @@ Over 100 million people visit Quora every month, so it's no surprise that many p
 
 
 > Credits: Kaggle
-__ Problem Statement __
 
-Identify which questions asked on Quora are duplicates of questions that have already been asked.
-This could be useful to instantly provide answers to questions that have already been answered.
-We are tasked with predicting whether a pair of questions are duplicates or not.
 1.2 Sources/Useful Links
 Source : https://www.kaggle.com/c/quora-question-pairs
 
